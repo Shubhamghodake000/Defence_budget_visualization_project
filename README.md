@@ -14,7 +14,8 @@ The dataset contains historical data from 1961-62 to 2013-14 (BE), including:
 - Percentage of DRDO Budget to Defence Outlay
 
 ## Project Structure
-```defence-budget-analysis/
+```
+defence-budget-analysis/
 │
 ├── Defence_budget.ipynb                    # Main Jupyter notebook with analysis
 ├── Departofdefence_RandD_budgetover_1.csv  # Dataset file
